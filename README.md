@@ -16,7 +16,7 @@ A Claude skill that acts as an expert career coach. Give it a job posting (URL o
 ## Installation
 
 ```bash
-claude plugin install github:<your-username>/job-seeker
+claude plugin install github:sebdavila/job-seeker
 ```
 
 Or download the `.skill` file from [Releases](../../releases) and install it in Claude.ai via **Settings → Skills**.
