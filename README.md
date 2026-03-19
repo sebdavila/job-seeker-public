@@ -30,7 +30,7 @@ git clone https://github.com/sebdavila/job-seeker-public.git ~/.claude/skills/jo
 
 Start a new conversation and paste a job description:
 
-> *"Quiero aplicar a este trabajo: https://jobs.mastercard.com/..."*
+> *"Quiero aplicar a este trabajo: https://www.linkedin.com/jobs/..."*
 
 or
 
