@@ -106,3 +106,9 @@ skills/
     └── references/
         └── reglas-ats.md
 ```
+
+---
+
+## Credits
+
+Parts of the skill structure and logic were inspired by and adapted from [**career-ops**](https://github.com/santifer/career-ops) by [@santifer](https://github.com/santifer). Thank you for the open contribution to the community.

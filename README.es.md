@@ -106,3 +106,9 @@ skills/
     └── references/
         └── reglas-ats.md
 ```
+
+---
+
+## Créditos
+
+Partes de la estructura y lógica del skill fueron inspiradas y adaptadas de [**career-ops**](https://github.com/santifer/career-ops) por [@santifer](https://github.com/santifer). Gracias por la contribución abierta a la comunidad.
